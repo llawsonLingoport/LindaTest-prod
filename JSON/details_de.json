@@ -1,10 +1,8 @@
 {
-
   "print": "DRUCKEN",
-  
   "role": {
     "aunt": "Tante",
-    "_comment_2":"LRM_RESEND de-json-retran2",
+    "_comment_2": "LRM_RESEND de-json-retran2",
     "uncle": "Onkel"
   }
 }
