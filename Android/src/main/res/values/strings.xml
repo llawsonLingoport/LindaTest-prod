@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Lingoport test -->
+  <string name="param_digit">This is a digit param %d</string>
+  <string name="param_multi">This %1$d is multiple params %2$s %3$d</string>
+  <string name="html_key">Hello, <b>World</b>!</string> 
+<string name="date_format">dd/mm/yy</string>
+<string name="date_format_not">This is not a date format dd/mm/yy</string>
+<string name="date_format1">'This is a date format' dd/mm/yy</string>
+<string name="simple_key">This is a simple message</string>
+ <string name="visit_fs_add_audio"><![CDATA[Visit <a href="https://test.org/">test.org</a> to add Audio]]></string>
+
+  
+</resources>

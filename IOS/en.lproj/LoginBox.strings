@@ -1,0 +1,19 @@
+
+/* Class = "IBUILabel"; text = "or"; ObjectID = "DTz-P6-Y3D"; */
+"DTz-P6-Y3D.text" = "or %.2f \t \n %d the %s quick %f brown %3$f fox %1$s jumps %2$d over  %@sleeping dog ";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "FiC-Ph-wbo"; */
+"FiC-Ph-wbo.placeholder" = "Username";
+
+/* Class = "IBUILabel"; text = "Forgot"; ObjectID = "Ixb-lh-X3h"; */
+"Ixb-lh-X3h.text" = "Forgot";
+
+
+/* Class = "IBUILabel"; text = "The username or password was incorrect."; ObjectID = "tDx-oc-GBE"; */
+"tDx-oc-GBE.text" = "The username or \"password\" was incorrect.";
+
+/* Class = "IBUIButton"; normalTitle = "password?"; ObjectID = "ve9-w9-WX9"; */
+"ve9-w9-WX9.normalTitle" = "password?";
+
+/* Class = "IBUIButton"; normalTitle = "username"; ObjectID = "wXC-YF-eTg"; */
+"wXC-YF-eTg.normalTitle" = "username";
