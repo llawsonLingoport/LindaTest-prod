@@ -8,6 +8,7 @@
 <string name="date_format">dd/mm/yy</string>
 <string name="date_format_not">This is not a date format dd/mm/yy</string>
 <string name="date_format1">'This is a date format' dd/mm/yy</string>
+<!--LRM_RESEND de-Android-->
 <string name="simple_key">This is a simple message</string>
  <string name="visit_fs_add_audio"><![CDATA[Visit <a href="https://test.org/">test.org</a> to add Audio]]></string>
 

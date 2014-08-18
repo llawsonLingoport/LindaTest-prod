@@ -1,0 +1,10 @@
+{
+    "print": "PRINT",
+
+  "role" : {
+    "aunt": "Aunt",
+ 
+    "uncle": "Uncle"
+
+  }
+}
