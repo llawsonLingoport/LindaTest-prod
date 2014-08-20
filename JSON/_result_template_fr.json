@@ -1,6 +1,5 @@
 {
   "authorLabel": "Author:",
   "availabilityLabel": "Availability:",
-  "_comment_test":"LRM_RESEND fr-json-should be in db after import",
   "callNumberLabel": "Call Number:"
 }
