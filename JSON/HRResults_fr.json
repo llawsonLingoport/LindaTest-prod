@@ -10,6 +10,7 @@
   },
   "relative": {
     "parents": "fr parents",
+	"_comment1": "LRM_RESEND fr_father",
     "father": "fr father",
     "mother": "fr mother"   
   },
