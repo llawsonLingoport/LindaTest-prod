@@ -1,0 +1,19 @@
+{
+  "browse_images": "Browse Images",
+  "legacy": "legacy change",
+  "dateString": "dd mmm yyyy",
+  "abbrMonths": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+  ]
+}

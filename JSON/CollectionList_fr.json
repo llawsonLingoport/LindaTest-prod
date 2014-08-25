@@ -1,0 +1,20 @@
+{
+  "browse_images": "Browse Images",
+  "legacy": "legacy",
+  "dateString": "dd mmm yyyy",
+  "_comment2":"LRM_RESEND fr_abbrMonths",
+  "abbrMonths": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+  ]
+}
