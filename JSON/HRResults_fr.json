@@ -1,21 +1,19 @@
 {
-  "next": "fr Next",
-  "previous": "fr Previous",
-  "resultsLinkText": "fr All {0} results",
-  
+  "next": "Next",
+  "previous": "Previous",
+  "resultsLinkText": "All {0} results",
   "eventType": {
-    "adoption": "fr adoption:",
-    "census": "fr census:",
-    "will": "fr will:"
+    "adoption": "adoption:",
+    "census": "census:",
+    "will": "will:"
   },
   "relative": {
-    "parents": "fr parents",
-	"_comment1": "LRM_RESEND fr_father",
-    "father": "fr father",
-    "mother": "fr mother"   
+    "parents": "parents",
+    "father": "father",
+    "mother": "mother"
   },
   "role": {
-    "aunt": "fr Aunt",
-    "wife": "fr Wife"
+    "aunt": "Aunt",
+    "wife": "Wife"
   }
 }

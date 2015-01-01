@@ -1,8 +1,7 @@
 {
   "browse_images": "Browse Images",
-  "legacy": "legacy",
+  "legacy": "legacy change",
   "dateString": "dd mmm yyyy",
-  "_comment2":"LRM_RESEND fr_abbrMonths",
   "abbrMonths": [
     "Jan",
     "Feb",
