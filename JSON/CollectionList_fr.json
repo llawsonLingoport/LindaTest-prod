@@ -1,19 +1,19 @@
 {
-  "browse_images": "Browse Images",
-  "legacy": "legacy change",
-  "dateString": "dd mmm yyyy",
+  "browse_images": "Parcourir les Images",
+  "legacy": "changement hérités 1_1_2015 11:56 AM",
+  "dateString": "jj mmm aaaa",
   "abbrMonths": [
-    "Jan",
-    "Feb",
-    "Mar",
-    "Apr",
-    "May",
+    "Jan 1_1_2015 11:52 AM",
+    "Fév",
+    "Mar 1_1_2015 11:56 AM",
+    "Avr",
+    "Mai",
     "Jun",
     "Jul",
     "Aug",
     "Sep",
     "Oct",
     "Nov",
-    "Dec"
+    "DEC"
   ]
 }
