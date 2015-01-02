@@ -1,18 +1,18 @@
 {
-  "browse_images": "Browse Images",
-  "legacy": "legacy",
-  "dateString": "dd mmm yyyy",
+  "browse_images": "Suchen Sie Bilder",
+  "legacy": "Ältere ändern 1_1_2015 11:56 AM",
+  "dateString": "Dd mmm Yyyy",
   "abbrMonths": [
-    "Jan",
+    "Jan 1_1_2015 11:52 AM",
     "Feb",
-    "Mar",
+    "Mär 1_1_2015 11:56 AM",
     "Apr",
-    "May",
+    "Mai",
     "Jun",
     "Jul",
     "Aug",
     "Sep",
-    "Oct",
+    "Okt",
     "Nov",
     "Dec"
   ]
