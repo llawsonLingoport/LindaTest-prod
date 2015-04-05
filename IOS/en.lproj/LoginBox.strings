@@ -6,7 +6,7 @@
 "FiC-Ph-wbo.placeholder" = "Username";
 
 /* Class = "IBUILabel"; text = "Forgot"; ObjectID = "Ixb-lh-X3h"; */
-"Ixb-lh-X3h.text" = "Forgot";
+"Ixb-lh-X3h.text" = "Forgot change this";
 
 
 /* Class = "IBUILabel"; text = "The username or password was incorrect."; ObjectID = "tDx-oc-GBE"; */
